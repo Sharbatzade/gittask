@@ -10,5 +10,5 @@ public class Springmain1Application {
 		SpringApplication.run(Springmain1Application.class, args);
 	}
 
-	//main conflict
+	//other
 }
